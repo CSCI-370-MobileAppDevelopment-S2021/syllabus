@@ -26,6 +26,13 @@ permalink: /
 This hands-on, project-oriented course explores the principles and tools involved in the design and construction of applications for mobile devices. Although the course focuses on the Android platform, the basic concepts and experiences extend to other mobile devices. Topics include an overview of mobile application development, the Android application architecture, mobile application lifecycle, managing application resources, designing user interfaces, data storage options, integrating audio and video, location-based services, cross-platform development using a mobile device emulator, and porting applications to actual devices. In addition to several smaller programming assignments to provide experience and reinforce concepts, students will work in teams on a substantial programming project to design, develop, and deploy a mobile application.
 Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
+## Student Learning Outcomes
+* Students will understand the activity and development lifecycle for a mobile application.
+
+* Students will demonstrate the ability to use a popular/modern mobile application development tool to write, debug, and publish mobile applications which includes such features as tool bars, UI Fragments and Fragment Managers, a backend database, widgets, etc.
+
+* Students will demonstrative the ability to write an application using the Model View Controller design pattern.
+
 ## Prerequisites
 
 * CSCI 221 with a grade of C- or better
