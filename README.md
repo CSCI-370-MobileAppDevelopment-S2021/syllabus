@@ -28,7 +28,7 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 ## Prerequisites
 
-* CSCI 230-Data Structures and Alghorithms or equivalent (CSCI 221 for non-majors)
+* CSCI 221 with a grade of C- or better
 * Understanding of Java programming language, data types, control flow, and basic method usage in Java
 * Working knowledge of an IDE such as Eclipse or IntelliJ (IntelliJ preferred)
 * Working knowledge of Git and Github
