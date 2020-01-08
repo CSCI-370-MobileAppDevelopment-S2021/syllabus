@@ -16,8 +16,8 @@ permalink: /
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](https://www.printfriendly.com/p/g/nXuSaW)
 * Slack info:
-   * Channel name: CSCI-490 MobileAppDev Spring 2019
-   * mobileappdev2019
+   * Channel name: CSCI-490 MobileAppDev Spring 2020
+   * mobileappdev2020
    * [Instructions](https://github.com/CSCI-437-MobileAppDevelopment-S2020/syllabus/blob/gh-pages/slack_instructions.md).
 
 
@@ -100,7 +100,7 @@ Bonus points for:
 * Creativity (as long as requirements are fulfilled)
 * Anything listed under `BONUS` in the README of the exercise.
 * Something that WOW's me.
-* Look through and create [issues](https://github.com/CSCI-437-MobileAppDevelopment-S2020/syllabus/issues)
+* Look through and create [issues](https://github.com/CSCI-370-MobileAppDevelopment-S2020/syllabus/issues)
 
 ## Grading
 
@@ -130,24 +130,25 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Jan. 9       Syllabus overview, Overview of Android Application Development
-* Jan. 14/16   Semester tools, Android Studio     
-* Jan. 21/23   Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
-* Jan. 28/30   Events, Saving Activity State, User Interface Basics
-* Feb. 4/6 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
-* Feb. 11/13   Positioning with Layouts, Semester group project introduction       
-* Feb. 18 	   Test #1
-* Feb. 20    	Advanced ArrayList Adapters
-* Feb. 25/27 	Data Storage (Preferences, File System), JSON
-* Feb. 4/6  	Threads, Network Applications
-* Mar. 11/13 	No Class (Online coursework and Group Semester project time)
-* Mar. 18/20   spring Break (no class)
-* Apr. 25/27   Material Design
-* Mar. 1/3     Location-Based Applications
-* Apr. 8 	   Test #2
+* Jan. 8       Syllabus overview, Overview of Android Application Development
+* Jan. 13/15   Semester tools, Android Studio
+* Jan. 20      No Class
+* Jan. 22      Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
+* Jan. 27/29   Events, Saving Activity State, User Interface Basics
+* Feb. 3/5 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
+* Feb. 10/12   Positioning with Layouts, Semester group project introduction       
+* Feb. 17 	   Test #1
+* Feb. 19    	No Class (Material Design possibly)
+* Feb. 24/26 	Advanced ArrayList Adapters
+* Mar. 2/4  	Data Storage (Preferences, File System), JSON
+* Mar. 9/11 	Threads, Network Applications
+* Mar. 16/18   spring Break (no class)
+* Mar. 23/25   Material Design
+* Mar. 30/1     Location-Based Applications
+* Apr. 6/8 	   Test #2
 * Apr. 10    	Fragments
-* Apr. 15/17 	Firebase Database
-* Apr. 22/23   Project Demonstrations
+* Apr. 13/15 	Firebase Database
+* Apr. 20/22   Project Demonstrations
 
 ## Resources
 
