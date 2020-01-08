@@ -205,3 +205,13 @@ Please respect the terms of use and/or license of any code you find, and if you 
 * Agree on an editor and environment that you're both comfortable with
 * Use Github for collaboration, branch/merge model is recommended
 * Meet regularly. Use Google Hangouts when you cannot meet in person (Hint: Sharing your screen is very useful)
+
+## Honor Code and Academic Integrity
+Lying, cheating, attempted cheating, and plagiarism are violations of our Honor Code that, when identified, are investigated. Each incident will be examined to determine the degree of deception involved. Incidents where the instructor determines the student’s actions are related more to misunderstanding and confusion will be handled by the instructor. The instructor designs an intervention or assigns a grade reduction to help prevent the student from repeating the error. The response is recorded on a form and signed both by the instructor and the student. It is forwarded to the Office of the Dean of Students and placed in the student’s file. Cases of suspected academic dishonesty will be reported directly by the instructor and/or others having knowledge of the incident to the Dean of Students. A student found responsible by the Honor Board for academic dishonesty will receive a XXF in the course, indicating failure of the course due to academic dishonesty. This status indicator will appear on the student’s transcript for two years after which the student may petition for the XX to be expunged. The F is permanent. Students can find the complete Honor Code and all related processes in the Student Handbook at [http://deanofstudents.cofc.edu/honor-system/studenthandbook/index.php](http://deanofstudents.cofc.edu/honor-system/studenthandbook/index.php) 
+
+## Disability/Access Statements
+The College will make reasonable accommodations for persons with documented disabilities. Students should apply for services at the Center for Disability Services/SNAP located on the first floor of the Lightsey Center, Suite 104. Students approved for accommodations are responsible for notifying me as soon as possible and for contacting me one week before accommodation is needed. 
+
+## Attendance policy
+Attendance is highly recommended. Daily grades (in-class assignments and daily quizzes) cannot be made up. (See the grading policies above.) 
+
