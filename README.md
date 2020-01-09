@@ -14,7 +14,7 @@ permalink: /
         * This is a communications medium for students to interact with one another and myself. I encourage students to interact with one another as a resource as well as provide instructor answers.
     * Office Hours: Mon & Wed- 4:30 to 5:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
-* [Syllabus as PDF](https://www.printfriendly.com/p/g/nXuSaW)
+* [Syllabus as PDF](https://www.printfriendly.com/p/g/uVV3YD)
 * Slack info:
    * Channel name: CSCI-490 MobileAppDev Spring 2020
    * mobileappdev2020
