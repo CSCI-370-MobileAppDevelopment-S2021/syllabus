@@ -137,8 +137,9 @@ The final grade for the course is based on 6 grades as follows:
 * Jan. 27/29   Events, Saving Activity State, User Interface Basics
 * Feb. 3/5 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
 * Feb. 10/12   Positioning with Layouts, Semester group project introduction       
-* Feb. 17 	   Test #1
-* Feb. 19    	No Class (Material Design possibly)
+* Feb. 17 	   Lab #3, Exam Review
+* Feb. 19    	Exam #1
+* Feb. 24/26   No Class (Material Design possibly)
 * Feb. 24/26 	Advanced ArrayList Adapters
 * Mar. 2/4  	Data Storage (Preferences, File System), JSON
 * Mar. 9/11 	Threads, Network Applications
