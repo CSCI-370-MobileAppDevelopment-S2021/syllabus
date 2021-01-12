@@ -5,9 +5,9 @@ permalink: /
 
 # <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-370-MobileAppDevelopment-S2020/syllabus/blob/gh-pages/meta.md) document.***
+***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-370-MobileAppDevelopment-S2021/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [CSCI-370-MobileAppDevelopment](https://github.com/CSCI-370-MobileAppDevelopment-S2020)
+* **Course:** [CSCI-370-MobileAppDevelopment](https://github.com/CSCI-370-MobileAppDevelopment-S2021)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
     * [Slack](https://mobileappdev2020.slack.com/messages/C7Y0T3VEF/)
@@ -16,9 +16,9 @@ permalink: /
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](https://www.printfriendly.com/p/g/uVV3YD)
 * Slack info:
-   * Channel name: CSCI-490 MobileAppDev Spring 2020
-   * mobileappdev2020
-   * [Instructions](https://github.com/CSCI-437-MobileAppDevelopment-S2020/syllabus/blob/gh-pages/slack_instructions.md).
+   * Channel name: CSCI-370 MobileAppDev Spring 2021
+   * mobileappdev2021
+   * [Instructions](https://github.com/CSCI-370-MobileAppDevelopment-S2021/syllabus/blob/gh-pages/slack_instructions.md).
 
 
 ## Course Description
@@ -62,7 +62,7 @@ All assignments are listed within the [Project Due Dates](https://github.com/CSC
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2019/Project_Due_Dates). This will take you to the project in [CSCI-370-MobileAppDevelopment](https://github.com/CSCI-370-MobileAppDevelopment-S2020) GitHub Organization account. 
+1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-370-MobileAppDevelopment-S2021/Project_Due_Dates). This will take you to the project in [CSCI-370-MobileAppDevelopment](https://github.com/CSCI-370-MobileAppDevelopment-S2021) GitHub Organization account. 
 2. Create your Android project (in Android Studio) with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
 3. In Android Studio, share the project with GitHub.
 4. Read the instructions provided by the README file.
@@ -100,18 +100,16 @@ Bonus points for:
 * Creativity (as long as requirements are fulfilled)
 * Anything listed under `BONUS` in the README of the exercise.
 * Something that WOW's me.
-* Look through and create [issues](https://github.com/CSCI-370-MobileAppDevelopment-S2020/syllabus/issues)
+* Look through and create [issues](https://github.com/CSCI-370-MobileAppDevelopment-S2021/syllabus/issues)
 
 ## Grading
 
 The final grade for the course is based on 6 grades as follows:
 
 90% of your grade consists of the following:
-* Two assigned in-class tests. Each test counts as a separate grade.
-* Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
+* Daily minor assignments and labs – collectively count as 1 grade.
 * Programming assignments – collectively count as 2 grades.
 * Course project – counts as 2 grades.
-* Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
 
 10% of your grade is attendance/participation
 
@@ -130,26 +128,27 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Jan. 8       Syllabus overview, Overview of Android Application Development
-* Jan. 13/15   Semester tools, Android Studio
-* Jan. 20      No Class
-* Jan. 22      Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
-* Jan. 27/29   Events, Saving Activity State, User Interface Basics
-* Feb. 3/5 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
-* Feb. 10/12   Positioning with Layouts, Semester group project introduction       
-* Feb. 17 	   Lab #3, Exam Review
-* Feb. 19    	Exam #1
-* Feb. 24/26   No Class (Material Design possibly)
-* Feb. 24/26 	Advanced ArrayList Adapters
-* Mar. 2/4  	Data Storage (Preferences, File System), JSON
-* Mar. 9/11 	Threads, Network Applications
-* Mar. 16/18   spring Break (no class)
-* Mar. 23/25   Material Design
-* Mar. 30/1     Location-Based Applications
-* Apr. 6/8 	   Test #2
+* Jan. 12/14   Syllabus overview, Overview of Android Application Development
+* Jan. 19/21   Semester tools, Android Studio
+* Jan. 26/28   Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
+* Feb. 2/4     Events, Saving Activity State, User Interface Basics
+* Feb. 9/11    User Interface Basics, Debugging Android Applications, Positioning with Layouts
+* Feb. 16/18 	Positioning with Layouts, Semester group project introduction    
+* Feb. 23/25   Lab #3      
+* Mar. 2/4 	   NO CLASS (Study Days)
+* Mar. 9/11    	
+* Mar. 16/18   
+* Mar. 23/25 	Advanced ArrayList Adapters
+* Mar. 30/1  	Data Storage (Preferences, File System), JSON
+* Apr. 6/8 	   Threads, Network Applications
+* Apr. 13/15   
+* Apr. 20/22   Material Design
+* Apr. 27/29   Location-Based Applications
+* Apr. 6/8 	   
 * Apr. 10    	Fragments
 * Apr. 13/15 	Firebase Database
-* Apr. 20/22   Project Demonstrations
+* Apr. 20      Project Demonstrations
+* Apr. 30      Final Semester Projects Due
 
 ## Resources
 
@@ -214,5 +213,5 @@ Lying, cheating, attempted cheating, and plagiarism are violations of our Honor 
 The College will make reasonable accommodations for persons with documented disabilities. Students should apply for services at the Center for Disability Services/SNAP located on the first floor of the Lightsey Center, Suite 104. Students approved for accommodations are responsible for notifying me as soon as possible and for contacting me one week before accommodation is needed. 
 
 ## Attendance policy
-Attendance is highly recommended. Daily grades (in-class assignments and daily quizzes) cannot be made up. (See the grading policies above.) 
+Attendance is highly recommended. Daily grades (in-class assignments) cannot be made up. (See the grading policies above.) 
 
