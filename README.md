@@ -10,7 +10,7 @@ permalink: /
 * **Course:** [CSCI-370-MobileAppDevelopment](https://github.com/CSCI-370-MobileAppDevelopment-S2021)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
-    * [Slack](https://mobileappdev2020.slack.com/messages/C7Y0T3VEF/)
+    * [Slack](https://mobileappdev2021.slack.com/messages/)
         * This is a communications medium for students to interact with one another and myself. I encourage students to interact with one another as a resource as well as provide instructor answers.
     * Office Hours: Mon & Wed- 4:30 to 5:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
