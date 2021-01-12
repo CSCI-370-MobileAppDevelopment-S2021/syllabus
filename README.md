@@ -17,7 +17,7 @@ permalink: /
 * [Syllabus as PDF](https://www.printfriendly.com/p/g/uVV3YD)
 * Slack info:
    * Channel name: CSCI-370 MobileAppDev Spring 2021
-   * mobileappdev2021
+   * cofcmobileappdev2021
    * [Instructions](https://github.com/CSCI-370-MobileAppDevelopment-S2021/syllabus/blob/gh-pages/slack_instructions.md).
 
 
